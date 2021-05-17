@@ -1,0 +1,13 @@
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\bin\Debug\Matchine_The_Images_game.exe.config
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\bin\Debug\Matchine_The_Images_game.exe
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\bin\Debug\Matchine_The_Images_game.pdb
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.csprojAssemblyReference.cache
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.Form1.resources
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.Properties.Resources.resources
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.csproj.GenerateResource.cache
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.csproj.CoreCompileInputs.cache
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.exe
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.pdb
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.Level2.resources
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Interop.WMPLib.dll
+C:\Users\UPDATE\source\repos\Matchine_The_Images_game\Matchine_The_Images_game\obj\Debug\Matchine_The_Images_game.csproj.ResolveComReference.cache
